@@ -6,3 +6,7 @@ print(type(thisDict))
 # dictionaries are mutable
 thisDict["id"]=3456
 print(thisDict)
+
+thisDict["address"]={"no":36, "street":"main road", "city":"puttalam"}
+print((thisDict))
+print(thisDict["address"]["no"])
