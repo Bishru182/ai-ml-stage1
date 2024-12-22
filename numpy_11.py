@@ -20,3 +20,9 @@ print()
 # numpy.arange
 e=np.arange(10,20,2)
 print(e)
+
+print()
+
+# numpy.linspace
+f=np.linspace(10,30,5)
+print(f)
