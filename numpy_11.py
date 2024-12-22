@@ -9,3 +9,8 @@ print(b.shape)
 c=np.zeros(shape=(10,5), dtype=int)
 print(c)
 
+print()
+
+# numpy.ones
+d=np.ones(shape=(10,5),dtype=int)
+print(d)
