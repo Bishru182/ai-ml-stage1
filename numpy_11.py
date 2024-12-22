@@ -14,3 +14,9 @@ print()
 # numpy.ones
 d=np.ones(shape=(10,5),dtype=int)
 print(d)
+
+print()
+
+# numpy.arange
+e=np.arange(10,20,2)
+print(e)
